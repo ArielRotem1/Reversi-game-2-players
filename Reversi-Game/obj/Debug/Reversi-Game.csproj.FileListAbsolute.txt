@@ -1,0 +1,12 @@
+C:\Ariel\MyTargilim\Reversi-Game\Reversi-Game\Reversi-Game\bin\Debug\Reversi-Game.exe.config
+C:\Ariel\MyTargilim\Reversi-Game\Reversi-Game\Reversi-Game\obj\Debug\Reversi-Game.csprojResolveAssemblyReference.cache
+C:\Ariel\MyTargilim\Reversi-Game\Reversi-Game\Reversi-Game\bin\Debug\Reversi-Game.exe
+C:\Ariel\MyTargilim\Reversi-Game\Reversi-Game\Reversi-Game\bin\Debug\Reversi-Game.pdb
+C:\Ariel\MyTargilim\Reversi-Game\Reversi-Game\Reversi-Game\obj\Debug\Reversi-Game.exe
+C:\Ariel\MyTargilim\Reversi-Game\Reversi-Game\Reversi-Game\obj\Debug\Reversi-Game.pdb
+C:\Ariel\MyTargilim\Reversi-Game\Reversi-Game\bin\Debug\Reversi-Game.exe.config
+C:\Ariel\MyTargilim\Reversi-Game\Reversi-Game\obj\Debug\Reversi-Game.exe
+C:\Ariel\MyTargilim\Reversi-Game\Reversi-Game\obj\Debug\Reversi-Game.pdb
+C:\Ariel\MyTargilim\Reversi-Game\Reversi-Game\bin\Debug\Reversi-Game.exe
+C:\Ariel\MyTargilim\Reversi-Game\Reversi-Game\bin\Debug\Reversi-Game.pdb
+C:\Ariel\MyTargilim\Reversi-Game\Reversi-Game\obj\Debug\Reversi-Game.csprojResolveAssemblyReference.cache
